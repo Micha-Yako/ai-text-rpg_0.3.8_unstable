@@ -1,0 +1,6 @@
+{
+  "name": "AI Text RPG_0.3.8_unstable",
+  "description": "A text-based role-playing game where an AI acts as the game master, narrating the story and managing game state including inventory and player parameters based on user interactions and configurable prompts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
